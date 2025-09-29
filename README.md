@@ -77,7 +77,7 @@ The code for TheraMisty is still currently private, but this document serves to 
 - **Security**: JWT, CORS, and environment-based secrets; Nginx reverse proxy with SSL in production compose.
 - **Data Services**: Optional PostgreSQL and Redis services provisioned in production compose for session data and caching.
 
-## End-to-End System Interaction Diagram
+## System Overview 
 
 ```mermaid
 flowchart LR
